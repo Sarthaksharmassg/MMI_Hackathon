@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MMI_Hackathon/static/css/main.e34394f9.css",
+    "main.js": "/MMI_Hackathon/static/js/main.f9dae430.js",
+    "static/js/453.ed3810f9.chunk.js": "/MMI_Hackathon/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/MMI_Hackathon/index.html",
+    "main.e34394f9.css.map": "/MMI_Hackathon/static/css/main.e34394f9.css.map",
+    "main.f9dae430.js.map": "/MMI_Hackathon/static/js/main.f9dae430.js.map",
+    "453.ed3810f9.chunk.js.map": "/MMI_Hackathon/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34394f9.css",
+    "static/js/main.f9dae430.js"
+  ]
+}
